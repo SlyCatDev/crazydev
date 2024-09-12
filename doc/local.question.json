@@ -1,0 +1,24 @@
+[{
+  "_id": {
+    "$oid": "66e1911b6046d9abd81dbee2"
+  },
+  "libelle": "j'aime bien la sécurité",
+  "coef": 2,
+  "critere": 1
+},
+{
+  "_id": {
+    "$oid": "66e192906046d9abd81dbee8"
+  },
+  "libelle": "j'aime bien le confort",
+  "coef": 2,
+  "critere": 2
+},
+{
+  "_id": {
+    "$oid": "66e192a76046d9abd81dbeea"
+  },
+  "libelle": "j'aime bien la créativité",
+  "coef": 2,
+  "critere": 3
+}]

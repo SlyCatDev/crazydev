@@ -1,0 +1,11 @@
+@startuml
+
+class Metier{
+   nom: string
+   description: string
+   securite: int
+   confort: int
+   creativite: int
+}
+
+@enduml

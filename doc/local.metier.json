@@ -1,0 +1,1250 @@
+[{
+  "_id": {
+    "$oid": "66e16c216046d9abd81dbe5b"
+  },
+  "nom": "Climatiseur d’extérieur",
+  "description": "Vous rêvez d’un été toujours frais ? Ce professionnel est là pour régler la température de vos jardins et balcons avec des climatiseurs spécialement conçus pour l’air extérieur. Parfait pour les jours où la chaleur extérieure est trop… extérieure.",
+  "securite": 1,
+  "confort": 1,
+  "creativite": 1
+},
+{
+  "_id": {
+    "$oid": "66e16c216046d9abd81dbe5c"
+  },
+  "nom": "Souffleur de poussière",
+  "description": "Ce héros armé de son puissant souffleur n’a qu’une mission : chasser la poussière partout où elle se cache. Il laisse les surfaces scintillantes et les particules volantes en déroute. La poussière n’a qu’à bien se tenir !",
+  "securite": 1,
+  "confort": 1,
+  "creativite": 2
+},
+{
+  "_id": {
+    "$oid": "66e16c216046d9abd81dbe5d"
+  },
+  "nom": "Nettoyeur de chiffon",
+  "description": "Quand vos chiffons ont trop de travail et qu’ils se retrouvent pleins de salissures, ce professionnel entre en scène. Il lave, séche, et plie les chiffons, leur redonnant leur gloire d’antan, pour qu’ils soient prêts à absorber encore plus de miettes.",
+  "securite": 1,
+  "confort": 1,
+  "creativite": 3
+},
+{
+  "_id": {
+    "$oid": "66e16c216046d9abd81dbe5e"
+  },
+  "nom": "Coiffeur de chauve",
+  "description": "Pour tous ceux qui croient que le style peut se vivre même sans cheveux, ce coiffeur offre des coupes spéciales pour crânes lisses. Préparez-vous à des designs capillaires invisibles mais élégants !",
+  "securite": 1,
+  "confort": 1,
+  "creativite": 4
+},
+{
+  "_id": {
+    "$oid": "66e16c216046d9abd81dbe5f"
+  },
+  "nom": "Réchauffeur de glace",
+  "description": "Vous en avez assez que vos glaces fondent trop vite ? Ce spécialiste ajuste la température de vos glaces pour qu’elles soient toujours à la limite du parfait équilibre entre solide et liquide. Une glace qui ne fond pas ? Voilà le rêve devenu réalité !",
+  "securite": 1,
+  "confort": 1,
+  "creativite": 5
+},
+{
+  "_id": {
+    "$oid": "66e16c216046d9abd81dbe60"
+  },
+  "nom": "Créateur de trous noirs domestiques",
+  "description": "Vous avez des objets qui se perdent mystérieusement ? Ce génie du spatial crée de petits trous noirs à la maison pour aspirer les objets égarés directement de la réalité. Perdre des clés n'a jamais été aussi amusant !",
+  "securite": 1,
+  "confort": 2,
+  "creativite": 1
+},
+{
+  "_id": {
+    "$oid": "66e16c216046d9abd81dbe61"
+  },
+  "nom": "Éditeur de souvenirs oubliés",
+  "description": "Vos souvenirs sont un peu flous ? Ce professionnel est là pour retravailler vos expériences passées avec une touche de créativité, ajoutant des détails et en ajustant le contexte pour que chaque souvenir soit un chef-d'œuvre parfait.",
+  "securite": 1,
+  "confort": 2,
+  "creativite": 2
+},
+{
+  "_id": {
+    "$oid": "66e16c216046d9abd81dbe62"
+  },
+  "nom": "Réparateur de rayures de zèbre",
+  "description": "Quand les zèbres sont malmenés, leurs rayures peuvent se déformer. Ce réparateur redonne aux zèbres leurs rayures impeccables et symétriques. Parce qu’une rayure décalée peut vraiment ruiner la journée d’un zèbre !",
+  "securite": 1,
+  "confort": 2,
+  "creativite": 3
+},
+{
+  "_id": {
+    "$oid": "66e16c216046d9abd81dbe63"
+  },
+  "nom": "Nettoyeur de traces de doigt",
+  "description": "Pour les surfaces où chaque empreinte compte, ce nettoyeur dévoué efface toutes les traces de doigts avec une précision chirurgicale. Vos miroirs, vos écrans et vos fenêtres retrouveront leur éclat sans la moindre trace.",
+  "securite": 1,
+  "confort": 2,
+  "creativite": 4
+},
+{
+  "_id": {
+    "$oid": "66e16c216046d9abd81dbe64"
+  },
+  "nom": "Réglisseur de hauteur de tabouret",
+  "description": "Vous avez un tabouret récalcitrant ? Ce technicien ajuste la hauteur des tabourets pour que chaque assise soit exactement à la hauteur parfaite. Adieu aux tabourets qui ne s’adaptent jamais à la table !",
+  "securite": 1,
+  "confort": 2,
+  "creativite": 5
+},
+{
+  "_id": {
+    "$oid": "66e16c216046d9abd81dbe65"
+  },
+  "nom": "Réparateur de nuages percés",
+  "description": "Lorsque les nuages sont trop percés et laissent tomber trop de pluie, ce réparateur intervient pour les raccommoder et limiter les inondations non souhaitées.",
+  "securite": 1,
+  "confort": 3,
+  "creativite": 1
+},
+{
+  "_id": {
+    "$oid": "66e16c216046d9abd81dbe66"
+  },
+  "nom": "Instructeur de bâillement collectif",
+  "description": "Ce coach professionnel vous apprend à synchroniser vos bâillements avec ceux de vos collègues. Parfait pour instaurer une ambiance détendue en réunion.",
+  "securite": 1,
+  "confort": 3,
+  "creativite": 2
+},
+{
+  "_id": {
+    "$oid": "66e16c216046d9abd81dbe67"
+  },
+  "nom": "Consultant en choix de chaussettes dépareillées",
+  "description": "Ce consultant aide les individus à sélectionner les meilleures combinaisons de chaussettes dépareillées pour un look à la fois audacieux et décontracté.",
+  "securite": 1,
+  "confort": 3,
+  "creativite": 3
+},
+{
+  "_id": {
+    "$oid": "66e16c216046d9abd81dbe68"
+  },
+  "nom": "Poseur de nappe invisible",
+  "description": "Pour les repas qui nécessitent une touche de magie, ce professionnel pose des nappes invisibles afin de donner l'impression que la vaisselle flotte sur la table.",
+  "securite": 1,
+  "confort": 3,
+  "creativite": 4
+},
+{
+  "_id": {
+    "$oid": "66e16c216046d9abd81dbe69"
+  },
+  "nom": "Tailleur de vent",
+  "description": "Ce spécialiste crée des courants d'air sur mesure pour aérer les espaces de manière élégante et artistique.",
+  "securite": 1,
+  "confort": 3,
+  "creativite": 5
+},
+{
+  "_id": {
+    "$oid": "66e16c216046d9abd81dbe6a"
+  },
+  "nom": "Organisateur de file d'attente pour ascenseur",
+  "description": "Pour éviter le chaos devant les ascenseurs bondés, ce professionnel gère l'ordre d'entrée et de sortie des passagers avec une précision impeccable.",
+  "securite": 1,
+  "confort": 4,
+  "creativite": 1
+},
+{
+  "_id": {
+    "$oid": "66e16c216046d9abd81dbe6b"
+  },
+  "nom": "Dompteur de moustiques",
+  "description": "Ce dompteur particulier entraîne les moustiques à voler en formation et à ne piquer que sur commande. Une solution naturelle contre les nuisances.",
+  "securite": 1,
+  "confort": 4,
+  "creativite": 2
+},
+{
+  "_id": {
+    "$oid": "66e16c216046d9abd81dbe6c"
+  },
+  "nom": "Conseiller en adoption de plantes carnivores",
+  "description": "Spécialiste des plantes carnivores, il aide les particuliers à choisir la plante qui correspondra le mieux à leurs besoins en termes de chasse aux insectes.",
+  "securite": 1,
+  "confort": 4,
+  "creativite": 3
+},
+{
+  "_id": {
+    "$oid": "66e16c216046d9abd81dbe6d"
+  },
+  "nom": "Dégustateur d'eau de pluie",
+  "description": "Avec un palais affûté, ce dégustateur évalue les différents goûts de l'eau de pluie en fonction de la région et du type de nuages qui l'ont produite.",
+  "securite": 1,
+  "confort": 4,
+  "creativite": 4
+},
+{
+  "_id": {
+    "$oid": "66e16c216046d9abd81dbe6e"
+  },
+  "nom": "Testeur de coussins gonflables",
+  "description": "Ce testeur s’assure que les coussins gonflables sont confortables et fonctionnent correctement en cas d'urgence.",
+  "securite": 1,
+  "confort": 4,
+  "creativite": 5
+},
+{
+  "_id": {
+    "$oid": "66e16c216046d9abd81dbe6f"
+  },
+  "nom": "Arrangeur de coussins de canapé",
+  "description": "Spécialiste de la disposition des coussins, il trouve la combinaison parfaite pour que votre canapé soit à la fois esthétique et confortable.",
+  "securite": 1,
+  "confort": 5,
+  "creativite": 1
+},
+{
+  "_id": {
+    "$oid": "66e16c216046d9abd81dbe70"
+  },
+  "nom": "Démineur de bulles dans le bain",
+  "description": "Quand les bulles dans le bain deviennent trop nombreuses et envahissantes, ce démineur entre en action pour rétablir un équilibre parfait.",
+  "securite": 1,
+  "confort": 5,
+  "creativite": 2
+},
+{
+  "_id": {
+    "$oid": "66e16c216046d9abd81dbe71"
+  },
+  "nom": "Lisseur de papier cadeau",
+  "description": "Ce spécialiste élimine tous les plis du papier cadeau pour offrir un emballage parfaitement lisse.",
+  "securite": 1,
+  "confort": 5,
+  "creativite": 3
+},
+{
+  "_id": {
+    "$oid": "66e16c216046d9abd81dbe72"
+  },
+  "nom": "Réparateur d'éclats de lune",
+  "description": "Lorsqu'un morceau de lune s'éclipse, ce réparateur entre en scène pour rétablir l'équilibre lunaire avec délicatesse.",
+  "securite": 1,
+  "confort": 5,
+  "creativite": 4
+},
+{
+  "_id": {
+    "$oid": "66e16c6f6046d9abd81dbe74"
+  },
+  "nom": "Attrapeur de nuages fugueurs",
+  "description": "Lorsqu’un nuage décide de s’aventurer trop loin, cet expert est là pour le ramener dans le ciel de sa région d’origine.",
+  "securite": 1,
+  "confort": 5,
+  "creativite": 5
+},
+{
+  "_id": {
+    "$oid": "66e16c6f6046d9abd81dbe75"
+  },
+  "nom": "Dégivreur de cornets de glace",
+  "description": "Ce spécialiste s’assure que vos cornets de glace ne gèlent pas trop, gardant une texture parfaite pour savourer chaque bouchée.",
+  "securite": 2,
+  "confort": 1,
+  "creativite": 1
+},
+{
+  "_id": {
+    "$oid": "66e16c6f6046d9abd81dbe76"
+  },
+  "nom": "Chronométreur de siestes parfaites",
+  "description": "Chronométreur de précision, il calcule la durée idéale d’une sieste pour maximiser la détente sans compromettre la productivité.",
+  "securite": 2,
+  "confort": 1,
+  "creativite": 2
+},
+{
+  "_id": {
+    "$oid": "66e16c6f6046d9abd81dbe77"
+  },
+  "nom": "Dresseur de vagues pour surfeurs",
+  "description": "En collaboration avec l’océan, ce dresseur forme des vagues parfaites pour garantir un ride exceptionnel à chaque session de surf.",
+  "securite": 2,
+  "confort": 1,
+  "creativite": 3
+},
+{
+  "_id": {
+    "$oid": "66e16c6f6046d9abd81dbe78"
+  },
+  "nom": "Cueilleur d’étoiles filantes",
+  "description": "Il capture des étoiles filantes pour les offrir en cadeau aux rêveurs nocturnes. Un métier poétique et délicat.",
+  "securite": 2,
+  "confort": 1,
+  "creativite": 4
+},
+{
+  "_id": {
+    "$oid": "66e16c6f6046d9abd81dbe79"
+  },
+  "nom": "Réchauffeur de sièges froids",
+  "description": "Ce professionnel prépare les sièges pour qu'ils soient toujours à la bonne température, assurant ainsi un confort optimal pour chaque utilisateur.",
+  "securite": 2,
+  "confort": 1,
+  "creativite": 5
+},
+{
+  "_id": {
+    "$oid": "66e16c6f6046d9abd81dbe7a"
+  },
+  "nom": "Ramasseur de sons perdus",
+  "description": "Expert en acoustique, il récupère les sons qui se sont perdus dans l’espace, afin de les restituer à ceux qui les ont manqués.",
+  "securite": 2,
+  "confort": 2,
+  "creativite": 1
+},
+{
+  "_id": {
+    "$oid": "66e16c6f6046d9abd81dbe7b"
+  },
+  "nom": "Régleur de lumière d’aurore boréale",
+  "description": "Ce technicien de la nature ajuste la brillance et la couleur des aurores boréales pour créer les spectacles célestes les plus saisissants.",
+  "securite": 2,
+  "confort": 2,
+  "creativite": 2
+},
+{
+  "_id": {
+    "$oid": "66e16c6f6046d9abd81dbe7c"
+  },
+  "nom": "Couturier de toiles d’araignée",
+  "description": "Spécialiste des filaments, il répare et embellit les toiles d’araignées pour qu'elles soient résistantes et esthétiques.",
+  "securite": 2,
+  "confort": 2,
+  "creativite": 3
+},
+{
+  "_id": {
+    "$oid": "66e16c6f6046d9abd81dbe7d"
+  },
+  "nom": "Chasseur d’arc-en-ciel",
+  "description": "Toujours en quête du parfait arc-en-ciel, il capture ces merveilles éphémères pour les collectionneurs de phénomènes atmosphériques rares.",
+  "securite": 2,
+  "confort": 2,
+  "creativite": 4
+},
+{
+  "_id": {
+    "$oid": "66e16c6f6046d9abd81dbe7e"
+  },
+  "nom": "Chef de plantation d’arbres en plastique",
+  "description": "Il s’assure que les arbres décoratifs en plastique soient plantés de manière naturelle pour un effet réaliste dans les espaces publics.",
+  "securite": 2,
+  "confort": 2,
+  "creativite": 5
+},
+{
+  "_id": {
+    "$oid": "66e16c6f6046d9abd81dbe7f"
+  },
+  "nom": "Réparateur de bulles de savon éclatées",
+  "description": "Lorsqu’une bulle de savon éclate trop tôt, cet artisan est là pour la restaurer dans toute sa splendeur.",
+  "securite": 2,
+  "confort": 3,
+  "creativite": 1
+},
+{
+  "_id": {
+    "$oid": "66e16c6f6046d9abd81dbe80"
+  },
+  "nom": "Organisateur de fêtes pour animaux imaginaires",
+  "description": "Spécialiste des fêtes, il organise des événements incroyables pour les animaux fictifs dans l’imaginaire des enfants.",
+  "securite": 2,
+  "confort": 3,
+  "creativite": 2
+},
+{
+  "_id": {
+    "$oid": "66e16c6f6046d9abd81dbe81"
+  },
+  "nom": "Fabricant de nuages en barbe à papa",
+  "description": "Ce confiseur d’un genre nouveau crée des nuages comestibles en barbe à papa, pour le plus grand plaisir des gourmands.",
+  "securite": 2,
+  "confort": 3,
+  "creativite": 3
+},
+{
+  "_id": {
+    "$oid": "66e16c6f6046d9abd81dbe82"
+  },
+  "nom": "Peintre de gouttes de pluie",
+  "description": "Artiste des éléments, il peint chaque goutte de pluie pour qu’elles aient toutes une nuance unique lorsqu'elles tombent sur le sol.",
+  "securite": 2,
+  "confort": 3,
+  "creativite": 4
+},
+{
+  "_id": {
+    "$oid": "66e16c6f6046d9abd81dbe83"
+  },
+  "nom": "Pilote de nuages",
+  "description": "Navigateur des cieux, il pilote des nuages pour qu’ils se déplacent harmonieusement et créent des formes agréables à contempler.",
+  "securite": 2,
+  "confort": 3,
+  "creativite": 5
+},
+{
+  "_id": {
+    "$oid": "66e16c6f6046d9abd81dbe84"
+  },
+  "nom": "Polisseur de pierres tombales vivantes",
+  "description": "Ce professionnel s’occupe des pierres tombales interactives qui répondent aux visites des proches. Il les polit et les maintient en bon état.",
+  "securite": 2,
+  "confort": 4,
+  "creativite": 1
+},
+{
+  "_id": {
+    "$oid": "66e16c6f6046d9abd81dbe85"
+  },
+  "nom": "Testeur de tapis volants",
+  "description": "Expert en tapis volants, il teste chaque modèle pour s’assurer qu’il vole en douceur et qu'il est confortable pour les longues distances.",
+  "securite": 2,
+  "confort": 4,
+  "creativite": 2
+},
+{
+  "_id": {
+    "$oid": "66e16c6f6046d9abd81dbe86"
+  },
+  "nom": "Détective des mystères oubliés",
+  "description": "Avec un flair infaillible, ce détective résout des mystères que tout le monde a oubliés. Rien ne lui échappe.",
+  "securite": 2,
+  "confort": 4,
+  "creativite": 3
+},
+{
+  "_id": {
+    "$oid": "66e16c6f6046d9abd81dbe87"
+  },
+  "nom": "Maître des miroirs infinis",
+  "description": "Cet artisan crée des jeux de miroirs sans fin, donnant l’illusion de mondes parallèles pour ceux qui osent s’y aventurer.",
+  "securite": 2,
+  "confort": 4,
+  "creativite": 4
+},
+{
+  "_id": {
+    "$oid": "66e16c6f6046d9abd81dbe88"
+  },
+  "nom": "Découpeur d’ombres",
+  "description": "Expert en découpe, il ajuste et sculpte les ombres pour qu’elles soient toujours parfaitement alignées avec les objets qu’elles accompagnent.",
+  "securite": 2,
+  "confort": 4,
+  "creativite": 5
+},
+{
+  "_id": {
+    "$oid": "66e16c6f6046d9abd81dbe89"
+  },
+  "nom": "Gardien de l’équilibre des vagues",
+  "description": "Il surveille les océans et ajuste l’intensité des vagues pour garantir des conditions de surf ou de baignade optimales.",
+  "securite": 2,
+  "confort": 5,
+  "creativite": 1
+},
+{
+  "_id": {
+    "$oid": "66e16c6f6046d9abd81dbe8a"
+  },
+  "nom": "Attrapeur de flocons de neige rares",
+  "description": "Ce passionné d’hiver capture des flocons de neige uniques pour les étudier et les conserver dans des collections spéciales.",
+  "securite": 2,
+  "confort": 5,
+  "creativite": 2
+},
+{
+  "_id": {
+    "$oid": "66e16c6f6046d9abd81dbe8b"
+  },
+  "nom": "Soigneur d’étoiles fatiguées",
+  "description": "Lorsque des étoiles brillent trop fort et sont épuisées, ce soigneur cosmique les aide à récupérer leur éclat d’antan.",
+  "securite": 2,
+  "confort": 5,
+  "creativite": 3
+},
+{
+  "_id": {
+    "$oid": "66e16c6f6046d9abd81dbe8c"
+  },
+  "nom": "Plieur de vent",
+  "description": "Spécialiste des courants d'air, il modifie la direction et la force du vent pour créer des atmosphères agréables et harmonieuses.",
+  "securite": 2,
+  "confort": 5,
+  "creativite": 4
+},
+{
+  "_id": {
+    "$oid": "66e16c6f6046d9abd81dbe8d"
+  },
+  "nom": "Chef de file des étoiles filantes",
+  "description": "Il coordonne le ballet céleste des étoiles filantes pour qu’elles apparaissent au bon moment et dans la bonne direction.",
+  "securite": 2,
+  "confort": 5,
+  "creativite": 5
+},
+{
+  "_id": {
+    "$oid": "66e16c6f6046d9abd81dbe8e"
+  },
+  "nom": "Surveillant de silence",
+  "description": "Chargé de veiller à ce que le silence règne là où il est attendu, il régule les niveaux sonores pour assurer une tranquillité parfaite.",
+  "securite": 3,
+  "confort": 1,
+  "creativite": 1
+},
+{
+  "_id": {
+    "$oid": "66e16c6f6046d9abd81dbe8f"
+  },
+  "nom": "Guide de l’invisible",
+  "description": "Avec une sensibilité rare, il guide les voyageurs dans le monde des invisibles, un royaume caché aux yeux ordinaires.",
+  "securite": 3,
+  "confort": 1,
+  "creativite": 2
+},
+{
+  "_id": {
+    "$oid": "66e16ce76046d9abd81dbe91"
+  },
+  "nom": "Réparateur de rêves cassés",
+  "description": "Quand les rêves se brisent, ce réparateur entre en scène pour les recoller, les polir et leur redonner une nouvelle vie.",
+  "securite": 3,
+  "confort": 1,
+  "creativite": 3
+},
+{
+  "_id": {
+    "$oid": "66e16ce76046d9abd81dbe92"
+  },
+  "nom": "Sculpteur d’échos",
+  "description": "Maître du son, il sculpte les échos pour qu'ils résonnent parfaitement dans les montagnes et les vallées.",
+  "securite": 3,
+  "confort": 1,
+  "creativite": 4
+},
+{
+  "_id": {
+    "$oid": "66e16ce76046d9abd81dbe93"
+  },
+  "nom": "Dompteur de tempêtes",
+  "description": "Ce professionnel redouté canalise la puissance des tempêtes et les dirige pour éviter les catastrophes naturelles.",
+  "securite": 3,
+  "confort": 1,
+  "creativite": 5
+},
+{
+  "_id": {
+    "$oid": "66e16ce76046d9abd81dbe94"
+  },
+  "nom": "Collectionneur d’odeurs perdues",
+  "description": "Il parcourt le monde à la recherche des odeurs oubliées pour les capturer dans de petites fioles.",
+  "securite": 3,
+  "confort": 2,
+  "creativite": 1
+},
+{
+  "_id": {
+    "$oid": "66e16ce76046d9abd81dbe95"
+  },
+  "nom": "Guide de songes",
+  "description": "Il accompagne les rêveurs dans leurs songes, les aidant à naviguer dans l’univers complexe de leur propre subconscient.",
+  "securite": 3,
+  "confort": 2,
+  "creativite": 2
+},
+{
+  "_id": {
+    "$oid": "66e16ce76046d9abd81dbe96"
+  },
+  "nom": "Régleur de battements de cœur",
+  "description": "Avec précision et soin, il ajuste les battements de cœur pour assurer un rythme parfait et apaisant.",
+  "securite": 3,
+  "confort": 2,
+  "creativite": 3
+},
+{
+  "_id": {
+    "$oid": "66e16ce76046d9abd81dbe97"
+  },
+  "nom": "Tisseur de rayons de soleil",
+  "description": "Ce créateur utilise les rayons du soleil pour tisser des tissus lumineux et éthérés, idéaux pour des vêtements spectaculaires.",
+  "securite": 3,
+  "confort": 2,
+  "creativite": 4
+},
+{
+  "_id": {
+    "$oid": "66e16ce76046d9abd81dbe98"
+  },
+  "nom": "Domestiqueur de vagues géantes",
+  "description": "Il apprivoise les vagues titanesques des océans pour qu’elles deviennent de paisibles ondulations ou de parfaites vagues de surf.",
+  "securite": 3,
+  "confort": 2,
+  "creativite": 5
+},
+{
+  "_id": {
+    "$oid": "66e16ce76046d9abd81dbe99"
+  },
+  "nom": "Éleveur d’arcs-en-ciel",
+  "description": "Ce spécialiste cultive des arcs-en-ciel dans des environnements contrôlés, offrant des spectacles visuels à couper le souffle.",
+  "securite": 3,
+  "confort": 3,
+  "creativite": 1
+},
+{
+  "_id": {
+    "$oid": "66e16ce76046d9abd81dbe9a"
+  },
+  "nom": "Tailleur de montagnes",
+  "description": "Avec un talent unique, il sculpte les montagnes pour créer des paysages harmonieux et majestueux.",
+  "securite": 3,
+  "confort": 3,
+  "creativite": 2
+},
+{
+  "_id": {
+    "$oid": "66e16ce76046d9abd81dbe9b"
+  },
+  "nom": "Mélodiste de vagues",
+  "description": "Il compose des mélodies en harmonisant les sons des vagues, créant des symphonies marines apaisantes.",
+  "securite": 3,
+  "confort": 3,
+  "creativite": 3
+},
+{
+  "_id": {
+    "$oid": "66e16ce76046d9abd81dbe9c"
+  },
+  "nom": "Reparateur de nuages déchirés",
+  "description": "Expert en couture céleste, il répare les nuages déchirés après de fortes tempêtes.",
+  "securite": 3,
+  "confort": 3,
+  "creativite": 4
+},
+{
+  "_id": {
+    "$oid": "66e16ce76046d9abd81dbe9d"
+  },
+  "nom": "Réparateur de ponts arc-en-ciel",
+  "description": "Quand un pont arc-en-ciel s’affaiblit ou s’efface, il le restaure pour qu’il continue de relier ciel et terre.",
+  "securite": 3,
+  "confort": 3,
+  "creativite": 5
+},
+{
+  "_id": {
+    "$oid": "66e16ce76046d9abd81dbe9e"
+  },
+  "nom": "Créateur de crépuscules infinis",
+  "description": "Maître du ciel, il prolonge la magie des crépuscules pour que les couchers de soleil semblent durer une éternité.",
+  "securite": 3,
+  "confort": 4,
+  "creativite": 1
+},
+{
+  "_id": {
+    "$oid": "66e16ce76046d9abd81dbe9f"
+  },
+  "nom": "Accrocheur de rêves",
+  "description": "Il capture des rêves fugaces dans de grands filets invisibles, pour les offrir à ceux qui en ont besoin.",
+  "securite": 3,
+  "confort": 4,
+  "creativite": 2
+},
+{
+  "_id": {
+    "$oid": "66e16ce76046d9abd81dbea0"
+  },
+  "nom": "Compteur de gouttes de pluie",
+  "description": "Il a pour mission de compter chaque goutte de pluie qui tombe, une tâche méticuleuse et infinie.",
+  "securite": 3,
+  "confort": 4,
+  "creativite": 3
+},
+{
+  "_id": {
+    "$oid": "66e16ce76046d9abd81dbea1"
+  },
+  "nom": "Fabricant de lunes artificielles",
+  "description": "Quand la vraie lune est cachée, il crée des lunes artificielles pour illuminer la nuit de manière douce et poétique.",
+  "securite": 3,
+  "confort": 4,
+  "creativite": 4
+},
+{
+  "_id": {
+    "$oid": "66e16ce76046d9abd81dbea2"
+  },
+  "nom": "Nettoyeur de reflets",
+  "description": "Il s’occupe de nettoyer et de polir les reflets dans les miroirs et les vitrines, pour qu’ils soient toujours clairs et nets.",
+  "securite": 3,
+  "confort": 4,
+  "creativite": 5
+},
+{
+  "_id": {
+    "$oid": "66e16ce76046d9abd81dbea3"
+  },
+  "nom": "Maquilleur de galaxies",
+  "description": "Avec une finesse cosmique, il embellit les galaxies en ajoutant des couleurs et des formes éclatantes.",
+  "securite": 3,
+  "confort": 5,
+  "creativite": 1
+},
+{
+  "_id": {
+    "$oid": "66e16ce76046d9abd81dbea4"
+  },
+  "nom": "Réveilleur de montagnes",
+  "description": "Quand les montagnes dorment trop longtemps, il les réveille doucement pour qu’elles se redressent et retrouvent leur majesté.",
+  "securite": 3,
+  "confort": 5,
+  "creativite": 2
+},
+{
+  "_id": {
+    "$oid": "66e16ce76046d9abd81dbea5"
+  },
+  "nom": "Organisateur de parades d'étoiles",
+  "description": "Il coordonne des défilés stellaires pour créer des spectacles de lumière nocturnes inoubliables.",
+  "securite": 3,
+  "confort": 5,
+  "creativite": 3
+},
+{
+  "_id": {
+    "$oid": "66e16ce76046d9abd81dbea6"
+  },
+  "nom": "Harmonisateur de vents",
+  "description": "Ce maestro des éléments ajuste les vents pour qu'ils créent des symphonies harmonieuses avec les arbres et les bâtiments.",
+  "securite": 3,
+  "confort": 5,
+  "creativite": 4
+},
+{
+  "_id": {
+    "$oid": "66e16ce76046d9abd81dbea7"
+  },
+  "nom": "Enchanteur de forêts silencieuses",
+  "description": "Avec son savoir-faire magique, il insuffle de la vie et des sons doux dans les forêts endormies.",
+  "securite": 3,
+  "confort": 5,
+  "creativite": 5
+},
+{
+  "_id": {
+    "$oid": "66e16ce76046d9abd81dbea8"
+  },
+  "nom": "Gardien de la nuit éternelle",
+  "description": "Chargé de maintenir le calme et la sérénité pendant les nuits interminables, il veille sur les dormeurs et les rêveurs.",
+  "securite": 4,
+  "confort": 1,
+  "creativite": 1
+},
+{
+  "_id": {
+    "$oid": "66e16ce76046d9abd81dbea9"
+  },
+  "nom": "Réparateur de toiles d’araignée célestes",
+  "description": "Il veille à la stabilité des filaments cosmiques qui relient les étoiles dans les constellations.",
+  "securite": 4,
+  "confort": 1,
+  "creativite": 2
+},
+{
+  "_id": {
+    "$oid": "66e16ce76046d9abd81dbeaa"
+  },
+  "nom": "Régleur de couleurs de crépuscule",
+  "description": "Il ajuste chaque soir la palette de couleurs pour les couchers de soleil, afin que chaque crépuscule soit unique.",
+  "securite": 4,
+  "confort": 1,
+  "creativite": 3
+},
+{
+  "_id": {
+    "$oid": "66e16ce76046d9abd81dbeab"
+  },
+  "nom": "Artisan des neiges éternelles",
+  "description": "Ce maître des glaciers s’assure que les neiges éternelles des montagnes restent pures et immaculées.",
+  "securite": 4,
+  "confort": 1,
+  "creativite": 4
+},
+{
+  "_id": {
+    "$oid": "66e16ce76046d9abd81dbeac"
+  },
+  "nom": "Régisseur de marées",
+  "description": "Il contrôle l’amplitude et la fréquence des marées pour protéger les côtes et créer de superbes panoramas marins.",
+  "securite": 4,
+  "confort": 1,
+  "creativite": 5
+},
+{
+  "_id": {
+    "$oid": "66e16d716046d9abd81dbeae"
+  },
+  "nom": "Réparateur de murmures",
+  "description": "Il répare les murmures abîmés par le vent ou les échos afin qu’ils parviennent clairs à ceux qui doivent les entendre.",
+  "securite": 4,
+  "confort": 2,
+  "creativite": 1
+},
+{
+  "_id": {
+    "$oid": "66e16d716046d9abd81dbeaf"
+  },
+  "nom": "Régulateur d’étoiles filantes",
+  "description": "Il veille à ce que les étoiles filantes passent au bon moment, garantissant des vœux exaucés.",
+  "securite": 4,
+  "confort": 2,
+  "creativite": 2
+},
+{
+  "_id": {
+    "$oid": "66e16d716046d9abd81dbeb0"
+  },
+  "nom": "Peintre d’ombres",
+  "description": "Il redessine les ombres pour qu’elles soient toujours nettes et qu’elles suivent les objets avec précision.",
+  "securite": 4,
+  "confort": 2,
+  "creativite": 3
+},
+{
+  "_id": {
+    "$oid": "66e16d716046d9abd81dbeb1"
+  },
+  "nom": "Domestiqueur d’orages",
+  "description": "Ce spécialiste transforme les orages violents en simples pluies apaisantes grâce à sa maîtrise du climat.",
+  "securite": 4,
+  "confort": 2,
+  "creativite": 4
+},
+{
+  "_id": {
+    "$oid": "66e16d716046d9abd81dbeb2"
+  },
+  "nom": "Éleveur de comètes",
+  "description": "Il s’assure que les comètes suivent des trajectoires parfaites et apparaissent dans le ciel selon un calendrier cosmique précis.",
+  "securite": 4,
+  "confort": 2,
+  "creativite": 5
+},
+{
+  "_id": {
+    "$oid": "66e16d716046d9abd81dbeb3"
+  },
+  "nom": "Conservateur d’aurores boréales",
+  "description": "Ce gardien veille à la préservation des aurores boréales, garantissant des spectacles lumineux inoubliables.",
+  "securite": 4,
+  "confort": 3,
+  "creativite": 1
+},
+{
+  "_id": {
+    "$oid": "66e16d716046d9abd81dbeb4"
+  },
+  "nom": "Rafraîchisseur d’éclairs",
+  "description": "Il redonne de la vigueur aux éclairs fatigués pour qu’ils brillent de toute leur intensité dans les cieux.",
+  "securite": 4,
+  "confort": 3,
+  "creativite": 2
+},
+{
+  "_id": {
+    "$oid": "66e16d716046d9abd81dbeb5"
+  },
+  "nom": "Sculpteur de vagues sonores",
+  "description": "Il sculpte des vagues sonores harmonieuses qui embellissent l’atmosphère dans des lieux publics et privés.",
+  "securite": 4,
+  "confort": 3,
+  "creativite": 3
+},
+{
+  "_id": {
+    "$oid": "66e16d716046d9abd81dbeb6"
+  },
+  "nom": "Tailleur d'îles flottantes",
+  "description": "Il dessine et façonne des îles qui flottent dans les cieux, créant des paradis aériens uniques.",
+  "securite": 4,
+  "confort": 3,
+  "creativite": 4
+},
+{
+  "_id": {
+    "$oid": "66e16d716046d9abd81dbeb7"
+  },
+  "nom": "Ramasseur de feuilles immortelles",
+  "description": "Il collecte des feuilles qui ne se fanent jamais pour des collections spéciales de botanique éternelle.",
+  "securite": 4,
+  "confort": 3,
+  "creativite": 5
+},
+{
+  "_id": {
+    "$oid": "66e16d716046d9abd81dbeb8"
+  },
+  "nom": "Régleur de flux de lave",
+  "description": "Spécialiste des volcans, il ajuste le débit de la lave pour éviter les catastrophes tout en offrant un spectacle impressionnant.",
+  "securite": 4,
+  "confort": 4,
+  "creativite": 1
+},
+{
+  "_id": {
+    "$oid": "66e16d716046d9abd81dbeb9"
+  },
+  "nom": "Jardinier de constellations",
+  "description": "Il organise et cultive les étoiles dans le ciel pour créer de nouvelles constellations chaque nuit.",
+  "securite": 4,
+  "confort": 4,
+  "creativite": 2
+},
+{
+  "_id": {
+    "$oid": "66e16d716046d9abd81dbeba"
+  },
+  "nom": "Domestiqueur de séismes",
+  "description": "Il stabilise les tremblements de terre, transformant les secousses destructrices en de légères vibrations.",
+  "securite": 4,
+  "confort": 4,
+  "creativite": 3
+},
+{
+  "_id": {
+    "$oid": "66e16d716046d9abd81dbebb"
+  },
+  "nom": "Réparateur de glaciers",
+  "description": "Ce professionnel colmate les fissures dans les glaciers pour préserver ces masses de glace majestueuses.",
+  "securite": 4,
+  "confort": 4,
+  "creativite": 4
+},
+{
+  "_id": {
+    "$oid": "66e16d716046d9abd81dbebc"
+  },
+  "nom": "Régisseur de chutes de neige",
+  "description": "Il contrôle la quantité et l’intensité des chutes de neige pour que l’hiver soit toujours enchanteur sans être trop rigoureux.",
+  "securite": 4,
+  "confort": 4,
+  "creativite": 5
+},
+{
+  "_id": {
+    "$oid": "66e16d716046d9abd81dbebd"
+  },
+  "nom": "Rafraîchisseur de vents chauds",
+  "description": "Il ajuste la température des vents brûlants pour qu’ils deviennent de douces brises estivales.",
+  "securite": 4,
+  "confort": 5,
+  "creativite": 1
+},
+{
+  "_id": {
+    "$oid": "66e16d716046d9abd81dbebe"
+  },
+  "nom": "Créateur d’ombres dansantes",
+  "description": "Il anime les ombres pour qu’elles dansent et offrent des spectacles fascinants sur les murs et les sols.",
+  "securite": 4,
+  "confort": 5,
+  "creativite": 2
+},
+{
+  "_id": {
+    "$oid": "66e16d716046d9abd81dbebf"
+  },
+  "nom": "Réparateur de pluie inversée",
+  "description": "Quand la pluie tombe à l'envers, il rétablit l’ordre pour que l’eau retourne du ciel à la terre.",
+  "securite": 4,
+  "confort": 5,
+  "creativite": 3
+},
+{
+  "_id": {
+    "$oid": "66e16d716046d9abd81dbec0"
+  },
+  "nom": "Protecteur des couchers de soleil",
+  "description": "Il veille à ce que chaque coucher de soleil reste inoubliable et que la transition vers la nuit soit douce et poétique.",
+  "securite": 4,
+  "confort": 5,
+  "creativite": 4
+},
+{
+  "_id": {
+    "$oid": "66e16d716046d9abd81dbec1"
+  },
+  "nom": "Enlumineur de cieux orageux",
+  "description": "Il fait briller les cieux même lors des tempêtes, éclairant le ciel d’éclats magiques et rassurants.",
+  "securite": 4,
+  "confort": 5,
+  "creativite": 5
+},
+{
+  "_id": {
+    "$oid": "66e16d716046d9abd81dbec2"
+  },
+  "nom": "Cartographe d’horizons",
+  "description": "Il trace des cartes détaillées des horizons lointains pour ceux qui rêvent de voyages lointains sans se déplacer.",
+  "securite": 5,
+  "confort": 1,
+  "creativite": 1
+},
+{
+  "_id": {
+    "$oid": "66e16d716046d9abd81dbec3"
+  },
+  "nom": "Jardinier d'étoiles filantes",
+  "description": "Il cultive et soigne les étoiles filantes pour s’assurer que les vœux des rêveurs se réalisent.",
+  "securite": 5,
+  "confort": 1,
+  "creativite": 2
+},
+{
+  "_id": {
+    "$oid": "66e16d716046d9abd81dbec4"
+  },
+  "nom": "Réparateur de grains de sable",
+  "description": "Il restaure les grains de sable érodés pour que les plages et les déserts conservent leur beauté naturelle.",
+  "securite": 5,
+  "confort": 1,
+  "creativite": 3
+},
+{
+  "_id": {
+    "$oid": "66e16d716046d9abd81dbec5"
+  },
+  "nom": "Régleur de clarté lunaire",
+  "description": "Il ajuste l’intensité de la lumière lunaire pour des nuits parfaitement éclairées et romantiques.",
+  "securite": 5,
+  "confort": 1,
+  "creativite": 4
+},
+{
+  "_id": {
+    "$oid": "66e16d716046d9abd81dbec6"
+  },
+  "nom": "Domestiqueur d’éclipses",
+  "description": "Il contrôle et régule les éclipses pour qu’elles soient des phénomènes parfaits et prévisibles.",
+  "securite": 5,
+  "confort": 1,
+  "creativite": 5
+},
+{
+  "_id": {
+    "$oid": "66e16d716046d9abd81dbec7"
+  },
+  "nom": "Régulateur de pluies de météores",
+  "description": "Il orchestre les pluies de météores, les faisant apparaître aux moments les plus magiques de la nuit.",
+  "securite": 5,
+  "confort": 2,
+  "creativite": 1
+},
+{
+  "_id": {
+    "$oid": "66e16d716046d9abd81dbec8"
+  },
+  "nom": "Réparateur de mirages",
+  "description": "Quand un mirage se déforme ou disparaît, il le répare pour que l’illusion reste intacte et mystérieuse.",
+  "securite": 5,
+  "confort": 2,
+  "creativite": 2
+},
+{
+  "_id": {
+    "$oid": "66e16d716046d9abd81dbec9"
+  },
+  "nom": "Domestiqueur de vagues lunaires",
+  "description": "Il ajuste les marées lunaires pour que les océans obéissent aux cycles de la lune avec précision.",
+  "securite": 5,
+  "confort": 2,
+  "creativite": 3
+},
+{
+  "_id": {
+    "$oid": "66e16daf6046d9abd81dbecb"
+  },
+  "nom": "Réparateur de chutes d’eau",
+  "description": "Il restaure les cascades endommagées pour qu'elles reprennent leur majesté et leur puissance d’origine.",
+  "securite": 5,
+  "confort": 2,
+  "creativite": 4
+},
+{
+  "_id": {
+    "$oid": "66e16daf6046d9abd81dbecc"
+  },
+  "nom": "Accordeur de saisons",
+  "description": "Il ajuste les saisons pour qu'elles passent en douceur d'une à l'autre, sans secousses climatiques inattendues.",
+  "securite": 5,
+  "confort": 2,
+  "creativite": 5
+},
+{
+  "_id": {
+    "$oid": "66e16daf6046d9abd81dbecd"
+  },
+  "nom": "Réparateur de spirales de galaxies",
+  "description": "Il répare les spirales déformées des galaxies pour qu’elles retrouvent leur forme majestueuse.",
+  "securite": 5,
+  "confort": 3,
+  "creativite": 1
+},
+{
+  "_id": {
+    "$oid": "66e16daf6046d9abd81dbece"
+  },
+  "nom": "Régulateur de brumes",
+  "description": "Il contrôle les brumes matinales pour qu'elles enveloppent les paysages avec la douceur désirée.",
+  "securite": 5,
+  "confort": 3,
+  "creativite": 2
+},
+{
+  "_id": {
+    "$oid": "66e16daf6046d9abd81dbecf"
+  },
+  "nom": "Gardien des passages secrets",
+  "description": "Il veille sur les portes et passages secrets pour assurer qu'ils restent dissimulés et sécurisés.",
+  "securite": 5,
+  "confort": 3,
+  "creativite": 3
+},
+{
+  "_id": {
+    "$oid": "66e16daf6046d9abd81dbed0"
+  },
+  "nom": "Réparateur de mélodies naturelles",
+  "description": "Il restaure les mélodies des oiseaux et autres créatures pour qu’elles chantent avec une harmonie parfaite.",
+  "securite": 5,
+  "confort": 3,
+  "creativite": 4
+},
+{
+  "_id": {
+    "$oid": "66e16daf6046d9abd81dbed1"
+  },
+  "nom": "Harmonisateur de crépuscules",
+  "description": "Il ajuste les nuances des crépuscules pour offrir des couchers de soleil harmonieux et enchanteurs.",
+  "securite": 5,
+  "confort": 3,
+  "creativite": 5
+},
+{
+  "_id": {
+    "$oid": "66e16daf6046d9abd81dbed2"
+  },
+  "nom": "Maître des illusions nocturnes",
+  "description": "Il crée des illusions visuelles fascinantes pour les nuits étoilées, ajoutant un mystère enchanteur aux cieux.",
+  "securite": 5,
+  "confort": 4,
+  "creativite": 1
+},
+{
+  "_id": {
+    "$oid": "66e16daf6046d9abd81dbed3"
+  },
+  "nom": "Régleur de symphonies de vent",
+  "description": "Il compose des symphonies en utilisant les sons du vent à travers les arbres et les bâtiments.",
+  "securite": 5,
+  "confort": 4,
+  "creativite": 2
+},
+{
+  "_id": {
+    "$oid": "66e16daf6046d9abd81dbed4"
+  },
+  "nom": "Tisseur de brise de mer",
+  "description": "Il crée des brises maritimes parfaites pour rafraîchir les plages et les rivages.",
+  "securite": 5,
+  "confort": 4,
+  "creativite": 3
+},
+{
+  "_id": {
+    "$oid": "66e16daf6046d9abd81dbed5"
+  },
+  "nom": "Gardien des lacs de cristal",
+  "description": "Il veille sur les lacs de cristal pour maintenir leur pureté et leur éclat irréel.",
+  "securite": 5,
+  "confort": 4,
+  "creativite": 4
+},
+{
+  "_id": {
+    "$oid": "66e16daf6046d9abd81dbed6"
+  },
+  "nom": "Réparateur d’orbites",
+  "description": "Il ajuste les orbites des planètes pour qu’elles demeurent dans des chemins réguliers et harmonieux.",
+  "securite": 5,
+  "confort": 4,
+  "creativite": 5
+},
+{
+  "_id": {
+    "$oid": "66e16daf6046d9abd81dbed7"
+  },
+  "nom": "Domestiqueur de feu de forêt",
+  "description": "Il maîtrise les feux de forêt pour les contrôler et prévenir leur propagation incontrôlable.",
+  "securite": 5,
+  "confort": 5,
+  "creativite": 1
+},
+{
+  "_id": {
+    "$oid": "66e16daf6046d9abd81dbed8"
+  },
+  "nom": "Éclaireur de crépuscules",
+  "description": "Il guide les crépuscules dans leur danse finale avant la nuit, garantissant une transition douce et colorée.",
+  "securite": 5,
+  "confort": 5,
+  "creativite": 2
+},
+{
+  "_id": {
+    "$oid": "66e16daf6046d9abd81dbed9"
+  },
+  "nom": "Réparateur de lueurs d’aurore",
+  "description": "Il restaure les aurores pour qu'elles continuent à danser avec la magie et la splendeur nocturne.",
+  "securite": 5,
+  "confort": 5,
+  "creativite": 3
+},
+{
+  "_id": {
+    "$oid": "66e16daf6046d9abd81dbeda"
+  },
+  "nom": "Sculpteur de brumes colorées",
+  "description": "Il crée des brumes aux teintes variées pour ajouter de la couleur aux paysages brumeux.",
+  "securite": 5,
+  "confort": 5,
+  "creativite": 4
+},
+{
+  "_id": {
+    "$oid": "66e16daf6046d9abd81dbedb"
+  },
+  "nom": "Maître des vents doux",
+  "description": "Il ajuste les vents pour qu'ils soient toujours doux et agréables, créant des ambiances parfaites.",
+  "securite": 5,
+  "confort": 5,
+  "creativite": 5
+}]
