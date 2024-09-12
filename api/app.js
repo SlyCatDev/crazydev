@@ -10,6 +10,20 @@ app.use(express.json());
 
 let db;
 
+
+export default function handler(req, res) {
+    res.status(200).json({ message: 'Hello from API!' });
+}
+
+
+app.get('/endpoint', (req, res) => {
+  res.json({ message: 'Hello from API!' });
+});
+
+module.exports = app;
+
+  
+
 connectDB().then(database => {
     db = database;
     app.listen(port, () => {
