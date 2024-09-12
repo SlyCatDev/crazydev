@@ -1,5 +1,5 @@
 // api/metier.js
-import { connectDB } from '../../db';
+import { connectDB } from './db';
 
 let db;
 
