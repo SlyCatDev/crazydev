@@ -1,5 +1,5 @@
 
-if (document.location.pathname.includes('index.html')) {
+if (window.location.pathname === '/' || window.location.pathname === '') {
 
     creativite = 3; //1
     securite = 3; //2
