@@ -4,8 +4,8 @@ let db;
 
 async function connectDB() {
   if (db) return db;
-  const client = await MongoClient.connect('your-mongodb-uri', { useNewUrlParser: true, useUnifiedTopology: true });
-  db = client.db('your-database-name');
+  const client = await MongoClient.connect('mongodb+srv://enzotessier:DjO3bR7V1dUluZ9Y@capeless-careers.ybowa.mongodb.net/Capeless-Careers', { useNewUrlParser: true, useUnifiedTopology: true });
+  db = client.db('Capeless-Careers');
   return db;
 }
 
