@@ -1,16 +1,16 @@
-const { MongoClient } = require('mongodb');
+// db.js
+import { MongoClient } from 'mongodb';
 
-async function connectDB() {
-    const uri = "mongodb+srv://enzotessier:DjO3bR7V1dUluZ9Y@capeless-careers.ybowa.mongodb.net/Capeless-Careers"; // Connexion à la base de données 'local'
-    const client = new MongoClient(uri);
+const uri = "mongodb+srv://enzotessier:DjO3bR7V1dUluZ9Y@capeless-careers.ybowa.mongodb.net/Capeless-Careers";
+const client = new MongoClient(uri);
 
+export async function connectDB() {
     try {
         await client.connect();
         console.log("Connected to MongoDB");
-        return client.db(); // Retourne la base de données 'local'
+        return client.db(); // Retourne la base de données
     } catch (err) {
         console.error(err);
+        throw err; // Assurez-vous de lancer l'erreur pour que le code appelant puisse la gérer
     }
 }
-
-module.exports = connectDB;

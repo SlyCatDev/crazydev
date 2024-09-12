@@ -1,23 +1,31 @@
-const express = require('express');
-const cors = require('cors');
-const connectDB = require('./db');
-
-const app = express();
-const port = 3000;
-
-app.use(cors()); // Ajoute CORS pour toutes les requêtes
-app.use(express.json());
+// api/metier.js
+import { connectDB } from '../../db';
 
 let db;
 
-connectDB().then(database => {
-    db = database;
-    app.listen(port, () => {
-        console.log(`Server is running on port ${port}`);
-    });
-});
+export default async function handler(req, res) {
+    if (!db) {
+        db = await connectDB();
+    }
 
-app.get('/metier', async (req, res) => {
+    switch (req.method) {
+        case 'GET':
+            if (req.query.search) {
+                await handleSearch(req, res, db);
+            } else {
+                await handleGetAll(req, res, db);
+            }
+            break;
+        case 'POST':
+            await handlePost(req, res, db);
+            break;
+        default:
+            res.setHeader('Allow', ['GET', 'POST']);
+            res.status(405).end(`Method ${req.method} Not Allowed`);
+    }
+}
+
+async function handleGetAll(req, res, db) {
     try {
         const collection = db.collection('metier');
         const data = await collection.find({}).toArray();
@@ -25,9 +33,9 @@ app.get('/metier', async (req, res) => {
     } catch (err) {
         res.status(500).send(err);
     }
-});
+}
 
-app.get('/metier/search', async (req, res) => {
+async function handleSearch(req, res, db) {
     const { securite, confort, creativite } = req.query;
     const query = {};
 
@@ -46,19 +54,9 @@ app.get('/metier/search', async (req, res) => {
     } catch (err) {
         res.status(500).send(err);
     }
-});
+}
 
-app.get('/questions', async (req, res) => {
-    try {
-        const collection = db.collection('question');
-        const data = await collection.find({}).toArray();
-        res.json(data);
-    } catch (err) {
-        res.status(500).send(err);
-    }
-});
-
-app.post('/metier', async (req, res) => {
+async function handlePost(req, res, db) {
     const { nom, description, securite, confort, creativite } = req.body;
 
     if (!nom || !description || !securite || !confort || !creativite) {
@@ -80,4 +78,4 @@ app.post('/metier', async (req, res) => {
     } catch (err) {
         res.status(500).send(err);
     }
-});
+}
