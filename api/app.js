@@ -16,7 +16,7 @@ export default function handler(req, res) {
 }
 
 
-app.get('/endpoint', (req, res) => {
+app.get('/', (req, res) => {
   res.json({ message: 'Hello from API!' });
 });
 
