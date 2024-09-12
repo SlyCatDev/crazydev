@@ -1,0 +1,15 @@
+{
+    "version": 2,
+    "functions": {
+      "api/app.js": {
+        "maxDuration": 60
+      }
+    },
+    "routes": [
+      {
+        "src": "/api/app",
+        "dest": "/api/app.js"
+      }
+    ]
+  }
+  
