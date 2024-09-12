@@ -1,15 +1,9 @@
 {
     "version": 2,
     "functions": {
-      "api/app.js": {
-        "maxDuration": 60
+      "api/**/*.js": {
+        "runtime": "nodejs18.x"
       }
-    },
-    "routes": [
-      {
-        "src": "/api/app",
-        "dest": "/api/app.js"
-      }
-    ]
+    }
   }
   
